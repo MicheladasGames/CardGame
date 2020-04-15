@@ -1,0 +1,14 @@
+---,CardType,CardTitle,CardDescription,CardImage,CardNumber4Players
+0,"EXPLODING","Exploding Kitten","{ Show this card immediately }","(Gambler,Garbage_Pile)",3
+1,"DEFUSE","Defuse","{ Put your last drawn card back into the deck }","(None)",6
+2,"ATTACK","Attack","{ End your turn without drawing a card. Force the next player to take two turns }","(None)",4
+3,"SHUFFLE","Shuffle","{ Shuffle the draw pile }","(None)",4
+4,"FAVOR","Favor","{ One player must give you a card of their choice }","(None)",4
+5,"SKIP","Skip","{ End your turn without drawing a card }","(None)",4
+6,"NOPE","NOPE","{ Stop the action of another player. You can play this at any time }","(None)",5
+7,"SEE_THE_FUTURE","See The Future","{ Privately view the top three cards of the deck }","(None)",5
+8,"KITTEN_1","Tacocat","",","(None)",4
+9,"KITTEN_2","Rainbow-Ralphing Cat","",","(None)",4
+10,"KITTEN_3","Hairy Potato Cat","",","(None)",4
+11,"KITTEN_4","Beard Cat","",","(None)",4
+12,"KITTEN_5","Cattermelon","",","(None)",4
